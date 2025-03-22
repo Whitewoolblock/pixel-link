@@ -1,6 +1,9 @@
 ﻿# H2O---OS
 ## A graphical user interface project for ruunning on ESP8266
 ### *read this in other languages: [English](README.md), [中文](README-zh.md)
+
+![logo](H2O-OS-logo.png)
+
 ==================================================================
 ***
 This project uses **LVGL** . You can upload it to your own **MCU**, if supported
