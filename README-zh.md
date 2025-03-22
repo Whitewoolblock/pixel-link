@@ -1,6 +1,6 @@
 ﻿# H2O---OS
 ## 一个运行在ESP8266上的图形化操作界面
-### *阅读其他语言版本：[English](READMe.md)， [中文](README-zh.md)
+### *阅读其他语言版本：[English](README.md)， [中文](README-zh.md)
 
 ![logo_zh](H2O-LOGO_zh.png)
 
