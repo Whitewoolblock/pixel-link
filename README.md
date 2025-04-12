@@ -2,7 +2,7 @@
 ## A graphical user interface project for ruunning on ESP32
 ### *read this in other languages: [English](README.md), [中文](README-zh.md)
 
-
+![LOGO](project-logo.png)
 
 ==================================================================
 ***
