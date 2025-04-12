@@ -1,8 +1,8 @@
-﻿# H2O---OS
-## A graphical user interface project for ruunning on ESP8266
+﻿# pixel-link
+## A graphical user interface project for ruunning on ESP32
 ### *read this in other languages: [English](README.md), [中文](README-zh.md)
 
-![logo](H2O-OS-logo.png)
+
 
 ==================================================================
 ***
