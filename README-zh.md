@@ -1,11 +1,10 @@
 ﻿# pixel-link
-## 一个运行在ESP32上的图形化操作界面
+## 一个运行在STM32上的关于nRF24L01的无线项目
 ### *阅读其他语言版本：[English](README.md)， [中文](README-zh.md)
 
 ![LOGO](project-logo.png)
 
 ==================================================================
 ***
-这个项目使用了LVGL，所以你可以将其移植到支持的MCU上
-访问LVGL官方网站：[LVGL: Light and Versatile Graphics Library — LVGL documentation](https://docs.lvgl.io/master/)
+
 
